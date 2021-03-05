@@ -1,7 +1,7 @@
 ### Hi there! 👋🏻 I'm Konstantin
 I'm a software student, currently doing  Data Science / ML specialization. I'm flexible and would love to explore the opportunity to work with you …
 
-[@constantimi](https://beacons.page/constantimi)
+Find more here: [@constantimi](https://beacons.page/constantimi)
 
 <!--
 **constantimi/constantimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
