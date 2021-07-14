@@ -1,9 +1,9 @@
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/constantimi) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constantimi/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/constantimi) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constantimi/)
 
 ### Hi there! 👋🏻 I'm Konstantin
-I'm a software student, currently doing  Data Science / ML specialization. I'm flexible and would love to explore the opportunity to work with you …
-
-Find more here: [@constantimi](https://beacons.page/constantimi)
+I'm a software student, currently doing  Data Science / ML specialization. 
+I'm flexible and would love to explore the opportunity to work with you.
 
 <!--
 **constantimi/constantimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
