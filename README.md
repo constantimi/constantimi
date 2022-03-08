@@ -7,4 +7,4 @@ I'm flexible and would love to explore the opportunity to work with you.
 [!["Linkedin Badge"](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constantimi/)
 [!["GitHub Badge"](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/constantimi)
 
-<a href="https://www.buymeacoffee.com/constanti.mi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="BuyMeACoffee Badge" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/constanti.mi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="BuyMeACoffee Badge" height="21" width="92"></a>
