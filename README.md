@@ -8,6 +8,6 @@ I'm flexible and would love to explore the opportunity to work with you.
 [!["GitHub Badge"](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/constantimi)
 <div align="right">
  <a href="https://www.buymeacoffee.com/constanti.mi" target="_blank">
-  <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg" alt="BuyMeACoffee Badge" height="52" width="280">
+  <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg" alt="BuyMeACoffee Badge" width="280">
  </a>
 </div>
