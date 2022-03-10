@@ -5,7 +5,7 @@ I am always looking to learn from people, and I aim to help others around me to 
 I'm flexible and would love to explore the opportunity to work with you.
 <div align="right">
  <a href="https://www.buymeacoffee.com/constanti.mi" target="_blank">
-  <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg" alt="BuyMeACoffee Badge" height="50" width="280">
+  <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg" alt="BuyMeACoffee Badge" height="50" width="120">
  </a>
 </div>
 
