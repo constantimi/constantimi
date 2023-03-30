@@ -4,9 +4,13 @@ I'm a Software Developer with a collaborative mindset ⚡ I thrive in dynamic an
 I am always looking to learn from people, and I aim to help others around me to grow into their best self.
  
   profession: "Full stack developer",
+  
   character: [Collaborative, Curious, Analytical],
+  
   languages: [C#, Python, JavaScript, TypeScript],
+  
   tools: [Node, .NET Core, Kubernetes, Azure DevOps],
+  
   interests: [Go, Solidity] 
  
    [!["Linkedin Badge"](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constantimi/)
